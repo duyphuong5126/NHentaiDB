@@ -1,12 +1,12 @@
 ===========================NHentai Data===========================
-Created date: 22/11/2018
-Total: 61616 items
-Categories: 6 items, number of old items: 0
-Characters: 9910 items, number of old items: 0
-Languages: 14 items, number of old items: 0
-Parodies: 2656 items, number of old items: 0
-Artists: 18673 items, number of old items: 0
-Groups: 15399 items, number of old items: 0
-mTags: 14958 items, number of old items: 0
+Created date: 23/11/2018
+Total: 61630 items
+Categories: 6 items, number of old items: 6
+Characters: 9911 items, number of old items: 9910
+Languages: 14 items, number of old items: 14
+Parodies: 2661 items, number of old items: 2656
+Artists: 18679 items, number of old items: 18673
+Groups: 15399 items, number of old items: 15399
+mTags: 14960 items, number of old items: 14958
 UnknownTypes: 0 items, number of old items: 0
 ==================================================================
