@@ -1,0 +1,121 @@
+[
+	{
+	  "app_version_number": 17,
+	  "app_version_code": "1.3.0",
+	  "is_activated": true,
+	  "whats_new": "- Quick Navigation bar & Share button in Book Reader\n- Fixed some bugs in Book Reader & Book Details screens",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.3.0/nHentai_v1.3.0.apk"
+	}, 
+	{
+	  "app_version_number": 16,
+	  "app_version_code": "1.2.0",
+	  "is_activated": true,
+	  "whats_new": "- Show Book ID & Comment section in Book Details screen\n- Go To Page button in Home screen\n- Fixed some bugs in Downloaded Books & Book Details screens",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.2.0/nHentai_v1.2.0.apk"
+	}, 
+	{
+	  "app_version_number": 15,
+	  "app_version_code": "1.1.1",
+	  "is_activated": true,
+	  "whats_new": "- Show suggestions in Search bar\n- Improve books fetching\n- Fixed somes bugs",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.1.1/nHentai_v1.1.1.apk"
+	}, 
+	{
+	  "app_version_number": 14,
+	  "app_version_code": "1.1.0",
+	  "is_activated": true,
+	  "whats_new": "- Sort options for Search feature: Recent, Popular (Today, This week, All time)\n- Fixed somes bugs",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.1.0/nHentai_v1.1.0.apk"
+	}, 
+	{
+	  "app_version_number": 13,
+	  "app_version_code": "1.0.83",
+	  "is_activated": false,
+	  "whats_new": "- Fixed crash when user uses Random book feature\n- Changed App signature",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.0.83/nHentai_v1.0.83.apk"
+	}, 
+	{
+	  "app_version_number": 12,
+	  "app_version_code": "1.0.82",
+	  "is_activated": false,
+	  "whats_new": "- Show last visited book page in Book Details screen\n- Fixed ANR and some bugs",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.0.82/nHentai_v1.0.82.apk"
+	}, 
+	{
+	  "app_version_number": 11,
+	  "app_version_code": "1.0.81",
+	  "is_activated": false,
+	  "whats_new": "- Fixed the crash when user returns to Recent list from Book Details screen",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.0.81/nHentai_v1.0.81.apk"
+	}, 
+	{
+	  "app_version_number": 10,
+	  "app_version_code": "1.0.8",
+	  "is_activated": false,
+	  "whats_new": "- Delete book's downloaded data\n- Remove books from the Recent list\n- Limit the number of images on the previewing list\n- Update app's styling",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.0.8/nHentai_v1.0.8.apk"
+	}, 
+	{
+	  "app_version_number": 9,
+	  "app_version_code": "1.0.72",
+	  "is_activated": false,
+	  "whats_new": "- Removed full-screen loading popup\n- Added in-app notification for new app version\n- Added tag data version and new app version in About screen\n- Fixed some bugs",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.0.72/nHentai_v1.0.72.apk"
+	}, 
+	{
+	  "app_version_number": 8,
+	  "app_version_code": "1.0.71",
+	  "is_activated": false,
+	  "whats_new": "- Corrected some notification messages\n- Increased the number of items in the Recent list to 25",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.0.71/nHentai_v1.0.71.apk"
+	}, 
+	{
+	  "app_version_number": 7,
+	  "app_version_code": "1.0.7",
+	  "is_activated": false,
+	  "whats_new": "- Update book downloading progress in notification center\n- Add ripple effect on some UI components\n- About Us screen",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.0.7/nHentai_v1.0.7.apk"
+	}, 
+	{
+	  "app_version_number": 6,
+	  "app_version_code": "1.0.5",
+	  "is_activated": false,
+	  "whats_new": "- Search for a book by ID\n- Fixed some bugs",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.0.5/nHentai_v1.0.5.apk"
+	}, 
+	{
+	  "app_version_number": 5,
+	  "app_version_code": "1.0.4",
+	  "is_activated": false,
+	  "whats_new": "- Download and read book when app is offline\n- Fixed some bugs",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.0.4/nHentai.apk"
+	}, 
+	{
+	  "app_version_number": 4,
+	  "app_version_code": "1.0.3",
+	  "is_activated": false,
+	  "whats_new": "- Improvements\n- Fixed some bugs",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.0.3/Nhentai_v4.apk"
+	}, 
+	{
+	  "app_version_number": 3,
+	  "app_version_code": "1.0.2",
+	  "is_activated": false,
+	  "whats_new": "- Improvements\n- Fixed some bugs",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.0.2/Nhentai_v3.apk"
+	}, 
+	{
+	  "app_version_number": 2,
+	  "app_version_code": "1.0.1",
+	  "is_activated": false,
+	  "whats_new": "- Improvements\n- Fixed some bugs",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/1.0.1/NHentai.apk"
+	}, 
+	{
+	  "app_version_number": 1,
+	  "app_version_code": "1.0.0",
+	  "is_activated": false,
+	  "whats_new": "- Book: Book Library, Book Details and Book Reader\n- Tags: Artists, Parodies, Categories, Characters, Groups, Languages and Tags\n- Recent/ Favorite books",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.0.0/nHentai.apk"
+	}
+]
