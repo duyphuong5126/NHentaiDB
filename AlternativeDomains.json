@@ -1,0 +1,11 @@
+{
+	"version": 1,
+	"supported_domains": [
+		{
+			"domain_id": 1,
+			"home_url": "https://nhentai.unblock.my.id",
+			"i_url": "https://i-nhentai.unblock.my.id",
+			"t_url": "https://t-nhentai.unblock.my.id"
+		}
+	]
+}
