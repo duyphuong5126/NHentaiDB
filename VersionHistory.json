@@ -1,5 +1,12 @@
 [
 	{
+	  "app_version_number": 18,
+	  "app_version_code": "1.3.1",
+	  "is_activated": true,
+	  "whats_new": "- Alternative servers\n- Improve Recent screen\n- Improve some features\n- Fixed some bugs in Book Reader & Home screens",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.3.1/nHentai_v1.3.1.apk"
+	},
+	{
 	  "app_version_number": 17,
 	  "app_version_code": "1.3.0",
 	  "is_activated": true,
