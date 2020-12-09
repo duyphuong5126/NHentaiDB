@@ -1,12 +1,12 @@
 ===========================NHentai Data===========================
-Created date: 8/4/2020
-Total: 67330 items
+Created date: 7/12/2020
+Total: 56100 items
 Categories: 7 items, number of old items: 0
-Characters: 11014 items, number of old items: 0
-Languages: 16 items, number of old items: 0
-Parodies: 2868 items, number of old items: 0
-Artists: 21004 items, number of old items: 0
-Groups: 17581 items, number of old items: 0
-mTags: 14840 items, number of old items: 0
+Characters: 11714 items, number of old items: 0
+Languages: 18 items, number of old items: 0
+Parodies: 3022 items, number of old items: 0
+Artists: 22125 items, number of old items: 0
+Groups: 18394 items, number of old items: 0
+mTags: 820 items, number of old items: 0
 UnknownTypes: 0 items, number of old items: 0
 ==================================================================
