@@ -3,7 +3,7 @@
 	  "app_version_number": 20,
 	  "app_version_code": "1.4.1",
 	  "is_activated": true,
-	  "whats_new": "- Fix crash in Book Preview screen when the app tries to load the comment thread without an internet connection",
+	  "whats_new": "Urgent update for v1.4.0\n- Fix crash in Book Preview screen when the app tries to load the comment thread without an internet connection\nYou can find the details of v1.4.0 here: https://github.com/duyphuong5126/H-Manga/releases/tag/v1.4.0",
 	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.4.1/nHentai_v1.4.1.apk"
 	},
 	{
