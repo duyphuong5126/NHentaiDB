@@ -9,7 +9,7 @@
 	{
 	  "app_version_number": 19,
 	  "app_version_code": "1.4.0",
-	  "is_activated": true,
+	  "is_activated": false,
 	  "whats_new": "- Vertical book reader\n- Offline Recent/Favorite list\n- Auto reload home screen when internet is back\n- Bugs fixing",
 	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.4.0/nHentai_v1.4.0.apk"
 	},
