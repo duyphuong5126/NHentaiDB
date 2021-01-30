@@ -1,8 +1,15 @@
 [
 	{
+	  "app_version_number": 21,
+	  "app_version_code": "1.4.2",
+	  "is_activated": true,
+	  "whats_new": "Urgent update for v1.4.0 (deprecated)\n- Fix crash in Book Preview screen when the app tries to load some data without an internet connection\n- Feedback form in the Home menu\nYou can find the details of v1.4.0 here: https://github.com/duyphuong5126/H-Manga/releases/tag/v1.4.0",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.4.2/nHentai_v1.4.2.apk"
+	},
+	{
 	  "app_version_number": 20,
 	  "app_version_code": "1.4.1",
-	  "is_activated": true,
+	  "is_activated": false,
 	  "whats_new": "Urgent update for v1.4.0\n- Fix crash in Book Preview screen when the app tries to load the comment thread without an internet connection\nYou can find the details of v1.4.0 here: https://github.com/duyphuong5126/H-Manga/releases/tag/v1.4.0",
 	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.4.1/nHentai_v1.4.1.apk"
 	},
@@ -30,21 +37,21 @@
 	{
 	  "app_version_number": 16,
 	  "app_version_code": "1.2.0",
-	  "is_activated": true,
+	  "is_activated": false,
 	  "whats_new": "- Show Book ID & Comment section in Book Details screen\n- Go To Page button in Home screen\n- Fixed some bugs in Downloaded Books & Book Details screens",
 	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.2.0/nHentai_v1.2.0.apk"
 	}, 
 	{
 	  "app_version_number": 15,
 	  "app_version_code": "1.1.1",
-	  "is_activated": true,
+	  "is_activated": false,
 	  "whats_new": "- Show suggestions in Search bar\n- Improve books fetching\n- Fixed somes bugs",
 	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.1.1/nHentai_v1.1.1.apk"
 	}, 
 	{
 	  "app_version_number": 14,
 	  "app_version_code": "1.1.0",
-	  "is_activated": true,
+	  "is_activated": false,
 	  "whats_new": "- Sort options for Search feature: Recent, Popular (Today, This week, All time)\n- Fixed somes bugs",
 	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.1.0/nHentai_v1.1.0.apk"
 	}, 
