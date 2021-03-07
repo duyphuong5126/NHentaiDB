@@ -1,8 +1,15 @@
 [
 	{
+	  "app_version_number": 23,
+	  "app_version_code": "1.5.1",
+	  "is_activated": true,
+	  "whats_new": "- Urgent update for v1.5.0 (deprecated)\n- Fixed bug: Unable to load book library\n- In the last version (1.5.0): Book recommendation in Home screen and Removable search suggestions\n  You can find more details here: https://github.com/duyphuong5126/H-Manga/releases/tag/v1.5.0",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.5.1/nHentai_v1.5.1.apk"
+	},
+	{
 	  "app_version_number": 22,
 	  "app_version_code": "1.5.0",
-	  "is_activated": true,
+	  "is_activated": false,
 	  "whats_new": "- Book recommendation in Home screen\n- Removable search suggestions\n- Data loading optimization\n- Bug trackers",
 	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.5.0/nHentai_v1.5.0.apk"
 	},
