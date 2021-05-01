@@ -1,8 +1,15 @@
 [
 	{
+	  "app_version_number": 24,
+	  "app_version_code": "1.5.2",
+	  "is_activated": true,
+	  "whats_new": "Update Book Reader and Book Preview screen\n- New reading style\n- Side-tapping navigation in Book Reader\n- Favorite count in Book Previewing screen\n- Confirmation message to delete a downloaded book\n- Download and save book images in app's private folder\n- Storage permission is not mandatory anymore\n- Fixed some bugs\n  You can find more details here: https://github.com/duyphuong5126/H-Manga/releases/tag/v1.5.2",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.5.2/nHentai_v1.5.2.apk"
+	},
+	{
 	  "app_version_number": 23,
 	  "app_version_code": "1.5.1",
-	  "is_activated": true,
+	  "is_activated": false,
 	  "whats_new": "Urgent update for v1.5.0 (deprecated)\n- Fixed bug: Unable to load book library\n- In the last version (1.5.0): Book recommendation in Home screen and Removable search suggestions.\n  You can find more details here: https://github.com/duyphuong5126/H-Manga/releases/tag/v1.5.0",
 	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.5.1/nHentai_v1.5.1.apk"
 	},
@@ -16,7 +23,7 @@
 	{
 	  "app_version_number": 21,
 	  "app_version_code": "1.4.2",
-	  "is_activated": true,
+	  "is_activated": false,
 	  "whats_new": "Urgent update for v1.4.0 (deprecated)\n- Fix crash in Book Preview screen when the app tries to load some data without an internet connection\n- Feedback form in the Home menu\nYou can find the details of v1.4.0 here: https://github.com/duyphuong5126/H-Manga/releases/tag/v1.4.0",
 	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.4.2/nHentai_v1.4.2.apk"
 	},
@@ -37,14 +44,14 @@
 	{
 	  "app_version_number": 18,
 	  "app_version_code": "1.3.1",
-	  "is_activated": true,
+	  "is_activated": false,
 	  "whats_new": "- Alternative servers\n- Improve Recent screen\n- Improve some features\n- Fixed some bugs in Book Reader & Home screens",
 	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.3.1/nHentai_v1.3.1.apk"
 	},
 	{
 	  "app_version_number": 17,
 	  "app_version_code": "1.3.0",
-	  "is_activated": true,
+	  "is_activated": false,
 	  "whats_new": "- Quick Navigation bar & Share button in Book Reader\n- Fixed some bugs in Book Reader & Book Details screens",
 	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.3.0/nHentai_v1.3.0.apk"
 	}, 
