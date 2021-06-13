@@ -1,8 +1,15 @@
 [
 	{
+	  "app_version_number": 26,
+	  "app_version_code": "1.7.0",
+	  "is_activated": true,
+	  "whats_new": "Update the recommendation feature\n- Recommended books in Recent and Favorite\n- Quick actions on recommended books\n- Comment thread will show up in downloaded books\n- Fixed bug: Wrong number of book's total pages in Downloading screen\n- Fixed bug: Conflict data when you download some books that have the same name\n- Fixed other minor bugs\n  You can find more details here: https://github.com/duyphuong5126/H-Manga/releases/tag/v1.7.0",
+	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.7.0/nHentai_v1.7.0.apk"
+	},
+	{
 	  "app_version_number": 25,
 	  "app_version_code": "1.6.0",
-	  "is_activated": true,
+	  "is_activated": false,
 	  "whats_new": "Update Book Reader and Book Downloader\n- Books downloading queue\n- Zooming all pages in Top-Down reading mode\n- Fixed crashes and bugs in the Downloaded booklist\n- Fixed other minor bugs\n  You can find more details here: https://github.com/duyphuong5126/H-Manga/releases/tag/v1.6.0",
 	  "download_url": "https://github.com/duyphuong5126/H-Manga/releases/download/v1.6.0/nHentai_v1.6.0.apk"
 	},
